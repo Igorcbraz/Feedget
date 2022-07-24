@@ -1,4 +1,5 @@
-<!-- Logo -->
+<h1 align="center">Feedback Widget</h1>
+</hr>
 <div align="center">
   
   ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=feedget)
